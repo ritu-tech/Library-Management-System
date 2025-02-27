@@ -8,8 +8,9 @@ This project designs a Library database system and auditing for KSU Book Kiosks.
 
 - **Database:** Oracle
 - **Programming Languages:** SQL, PL/SQL
-- **Database Administration**
 - **Database Development:** Stored Procedures, Triggers
+- **Database Administration**
+- **Database Auditing**
 
 **Steps Included:**
 
